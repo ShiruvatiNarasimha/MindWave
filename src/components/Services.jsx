@@ -71,9 +71,7 @@ const Services = () => {
                   Automatically enhance your photos using our AI app&apos;s
                   photo editing feature. Try it now!
                 </p>
-              </div>
-
-              <PhotoChatMessage />
+              </div
             </div>
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
