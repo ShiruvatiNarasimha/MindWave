@@ -17,7 +17,7 @@ const Benefits = () => {
                 <p className="body-2 mb-6 text-n-3">{item.text}</p>
                 <div className="flex items-center mt-auto">
             
-                  <Arrow />
+               
                 </div>
               </div>
 
