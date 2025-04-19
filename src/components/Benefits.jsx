@@ -24,9 +24,7 @@ const Benefits = () => {
                   {item.imageUrl && (
                   )}
                 </div>
-              </div>
-
-              <ClipPath />
+              </div
             </div>
           ))}
         </div>
