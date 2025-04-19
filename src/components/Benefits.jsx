@@ -14,8 +14,7 @@ const Benefits = () => {
         
               <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
             
-                className="absolute inset-0.5 bg-n-8"
-                style={{ clipPath: "url(#benefits)" }}
+              
               >
           ))}
         </div>
