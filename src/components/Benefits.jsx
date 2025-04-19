@@ -23,7 +23,7 @@ const Benefits = () => {
                 <div className="absolute inset-0 opacity-0 transition-opacity hover:opacity-10">
                   {item.imageUrl && (
                   )}
-                </div>
+                
               </div
             </div>
           ))}
