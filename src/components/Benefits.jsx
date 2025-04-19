@@ -12,10 +12,7 @@ const Benefits = () => {
       
 
         
-              <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
-            
-              
-              >
+           
           ))}
         </div>
       </div>
