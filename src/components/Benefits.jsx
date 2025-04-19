@@ -14,7 +14,7 @@ const Benefits = () => {
         
               <div className="relative z-2 flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
                 <h5 className="h5 mb-5">{item.title}
-              {item.light && <GradientLight />}
+              
 
               <div
                 className="absolute inset-0.5 bg-n-8"
