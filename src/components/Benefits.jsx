@@ -7,8 +7,6 @@ import ClipPath from "../assets/svg/ClipPath";
 
 const Benefits = () => {
   return (
-  
-        </div>
       </div>
     </Section>
   );
