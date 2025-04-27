@@ -1,4 +1,1 @@
-export const GradientLight = () => {
-  return (
-  );
-};
+
