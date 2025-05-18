@@ -9,7 +9,6 @@ const Button = ({ className, href, onClick, childern, px, white }) => {
   const renderButton = () => (
   );
 
-  const renderLink = () => (
     </a>
   );
 };
