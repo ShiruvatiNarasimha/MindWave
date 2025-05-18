@@ -8,4 +8,3 @@ const Button = ({ className, href, onClick, childern, px, white }) => {
   );
 };
 
-export default Button;
