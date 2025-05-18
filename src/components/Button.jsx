@@ -12,7 +12,6 @@ const Button = ({ className, href, onClick, childern, px, white }) => {
   const renderLink = () => (
     </a>
   );
-  return href ? renderLink() : renderButton();
 };
 
 export default Button;
