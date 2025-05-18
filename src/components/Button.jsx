@@ -6,8 +6,6 @@ const Button = ({ className, href, onClick, childern, px, white }) => {
   } ${white ? "text-n-8" : "text-n-1"} ${className || ""}`;
   const spanClasses = "relative z-10";
 
-  const renderButton = () => (
-  );
 
     </a>
   );
