@@ -13,7 +13,6 @@ const Button = ({ className, href, onClick, childern, px, white }) => {
 
   const renderLink = () => (
     <a href={href} className={classes}>
-      <span className={spanClasses}>{childern}</span>
       {ButtonSvg(white)}
     </a>
   );
