@@ -4,7 +4,6 @@ const Heading = ({ className, title, text, tag }) => {
   return (
     <div
     >
-    </div>
   );
 };
 
