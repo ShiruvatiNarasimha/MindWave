@@ -7,10 +7,7 @@ const CompanyLogos = ({ className }) => {
         H
       </h5>
       <ul className="flex">
-        {companyLogos.map((logo, index) => (
-          <li
-            className="flex items-center justify-center flex-1 h-[8.5rem]"
-          >
+        {companyLogos.map((logo, index) => 
           </li>
         ))}
       </ul>
