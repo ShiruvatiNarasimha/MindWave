@@ -10,7 +10,6 @@ const CompanyLogos = ({ className }) => {
         {companyLogos.map((logo, index) => (
           <li
             className="flex items-center justify-center flex-1 h-[8.5rem]"
-            key={index}
           >
           </li>
         ))}
