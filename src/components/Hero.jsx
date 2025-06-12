@@ -20,7 +20,6 @@ const Hero = () => {
       customPaddings
       id="hero"
     >
-      <div className="container relative" ref={parallaxRef}>
           <h1 className="h1 mb-6">
             <span className="inline-block relative">
               MindWave{" "}
